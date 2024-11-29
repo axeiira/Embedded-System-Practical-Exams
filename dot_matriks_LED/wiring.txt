@@ -1,0 +1,9 @@
+// ROW 2-7 -> PORT 13 - 8 (PB5 - PB0) Melewati Resistor
+// COLUMN 2-7 -> PORT (A5 - A0) atau (PC5 - PC0) Tidak Melewati Resistor
+// Sesuaiin Skematik yang didapat
+
+// INPUT DITARO DI PD
+BUTTON di PD6
+SPST di PD5
+SPDT1 di PD4
+SPDT2 di PD3
