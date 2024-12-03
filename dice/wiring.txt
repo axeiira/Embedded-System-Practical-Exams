@@ -1,0 +1,13 @@
+DICE - 1 (ATAS / YG GAADA BUTTON) :
+- Middle -> PB0
+- Right Diagonal -> PB1
+- Left Diagonal -> PB2
+- Left & Right Middle -> PB3
+
+DICE - 2 (BAWAH / YG ADA BUTTON) :
+- Middle -> PD4
+- Right Diagonal -> PB&
+- Left Diagonal -> PD6
+- Left & Right Middle -> PB5
+
+BUTTON -> PC0
