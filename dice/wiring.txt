@@ -6,8 +6,8 @@ DICE - 1 (ATAS / YG GAADA BUTTON) :
 
 DICE - 2 (BAWAH / YG ADA BUTTON) :
 - Middle -> PD4
-- Right Diagonal -> PB7
+- Right Diagonal -> PD7
 - Left Diagonal -> PD6
-- Left & Right Middle -> PB5
+- Left & Right Middle -> PD5
 
 BUTTON -> PC0
